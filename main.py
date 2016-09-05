@@ -1,3 +1,3 @@
 import numpy
 
-print("Hello from kentamin--more!")
+print("Hello from tada--more!")
